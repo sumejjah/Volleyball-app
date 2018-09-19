@@ -1,0 +1,117 @@
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.exe.config
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.exe
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.pdb
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.csprojResolveAssemblyReference.cache
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form1.resources
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Properties.Resources.resources
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.csproj.GenerateResource.Cache
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.exe
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.pdb
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form2.resources
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form3.resources
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form4.resources
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form5.resources
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form6.resources
+C:\Users\Sumeja\Desktop\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form7.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.exe.config
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.exe
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.pdb
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.exe
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.pdb
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.csprojResolveAssemblyReference.cache
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form1.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form2.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form3.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form4.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form5.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form6.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form7.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Properties.Resources.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.csproj.GenerateResource.Cache
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.kontrolaUnosKluba.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\bin\Debug\PosebnaKontrola.dll
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\Zadaca2_Zadatak2\bin\Debug\PosebnaKontrola.pdb
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.exe.config
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.exe
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.pdb
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.exe
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.pdb
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\bin\Debug\PosebnaKontrola.dll
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\bin\Debug\PosebnaKontrola.pdb
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.csprojResolveAssemblyReference.cache
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form1.resources
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form2.resources
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form3.resources
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form4.resources
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form5.resources
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form6.resources
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form7.resources
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.kontrolaUnosKluba.resources
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Properties.Resources.resources
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.csproj.GenerateResource.Cache
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form8.resources
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form9.resources
+C:\Users\Sumeja\Desktop\Zadaca3\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form10.resources
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.exe.config
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.exe
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.pdb
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.exe.config
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.exe
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.pdb
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.exe
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.pdb
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\bin\Debug\PosebnaKontrola.dll
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\bin\Debug\PosebnaKontrola.pdb
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.csprojResolveAssemblyReference.cache
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form1.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form10.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form2.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form3.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form4.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form5.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form6.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form7.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form8.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form9.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.kontrolaUnosKluba.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Properties.Resources.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.csproj.GenerateResource.Cache
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.exe
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.pdb
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\bin\Debug\PosebnaKontrola.dll
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\bin\Debug\PosebnaKontrola.pdb
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.csprojResolveAssemblyReference.cache
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form1.resources
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form10.resources
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form2.resources
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form3.resources
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form4.resources
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form5.resources
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form6.resources
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form7.resources
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form8.resources
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form9.resources
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.kontrolaUnosKluba.resources
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Properties.Resources.resources
+C:\Users\Sumeja\Desktop\Zadaca4\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.csproj.GenerateResource.Cache
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.exe.config
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.exe
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.pdb
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.csprojResolveAssemblyReference.cache
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form1.resources
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form10.resources
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form2.resources
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form3.resources
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form4.resources
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form5.resources
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form6.resources
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form7.resources
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form8.resources
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Form9.resources
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.kontrolaUnosKluba.resources
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.Properties.Resources.resources
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\obj\Debug\Zadaca2_Zadatak2.csproj.GenerateResource.Cache
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.exe
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\bin\Debug\Zadaca2_Zadatak2.pdb
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\bin\Debug\PosebnaKontrola.dll
+C:\Users\Sumeja\Desktop\Zadaca5\Zadaca2_Zadatak2\bin\Debug\PosebnaKontrola.pdb

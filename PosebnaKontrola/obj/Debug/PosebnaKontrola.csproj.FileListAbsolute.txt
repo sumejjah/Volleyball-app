@@ -1,0 +1,14 @@
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\PosebnaKontrola\bin\Debug\PosebnaKontrola.dll
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\PosebnaKontrola\bin\Debug\PosebnaKontrola.pdb
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\PosebnaKontrola\obj\Debug\PosebnaKontrola.csprojResolveAssemblyReference.cache
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\PosebnaKontrola\obj\Debug\PosebnaKontrola.kontrolaUnosBrojaTelefona.resources
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\PosebnaKontrola\obj\Debug\PosebnaKontrola.csproj.GenerateResource.Cache
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\PosebnaKontrola\obj\Debug\PosebnaKontrola.dll
+C:\Users\Sumeja\Desktop\III semestar\RPR\Zadace\Zadaca2\Zadaca2_Zadatak2\PosebnaKontrola\obj\Debug\PosebnaKontrola.pdb
+C:\Users\Sumeja\Desktop\Zadaca3\PosebnaKontrola\bin\Debug\PosebnaKontrola.dll
+C:\Users\Sumeja\Desktop\Zadaca3\PosebnaKontrola\bin\Debug\PosebnaKontrola.pdb
+C:\Users\Sumeja\Desktop\Zadaca3\PosebnaKontrola\obj\Debug\PosebnaKontrola.csprojResolveAssemblyReference.cache
+C:\Users\Sumeja\Desktop\Zadaca3\PosebnaKontrola\obj\Debug\PosebnaKontrola.kontrolaUnosBrojaTelefona.resources
+C:\Users\Sumeja\Desktop\Zadaca3\PosebnaKontrola\obj\Debug\PosebnaKontrola.csproj.GenerateResource.Cache
+C:\Users\Sumeja\Desktop\Zadaca3\PosebnaKontrola\obj\Debug\PosebnaKontrola.dll
+C:\Users\Sumeja\Desktop\Zadaca3\PosebnaKontrola\obj\Debug\PosebnaKontrola.pdb

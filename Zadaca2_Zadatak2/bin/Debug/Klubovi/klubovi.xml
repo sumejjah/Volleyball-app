@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfKlub xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Klub>
+    <Prefiks>ŽOK</Prefiks>
+    <Naziv>kolo</Naziv>
+    <Mjesto>brnjic</Mjesto>
+    <BrojTelefona>123456789</BrojTelefona>
+    <Adresa>zmaja od bosne bb</Adresa>
+    <OsvojeniSetovi>0</OsvojeniSetovi>
+    <IzgubljeniSetovi>0</IzgubljeniSetovi>
+    <OsvojeneUtakmice>0</OsvojeneUtakmice>
+    <IzgubljeneUtakmice>0</IzgubljeneUtakmice>
+  </Klub>
+  <Klub>
+    <Prefiks>ŽOK</Prefiks>
+    <Naziv>kuca</Naziv>
+    <Mjesto>vhvki</Mjesto>
+    <BrojTelefona>76576876867</BrojTelefona>
+    <Adresa>jdbsclcdsc</Adresa>
+    <OsvojeniSetovi>0</OsvojeniSetovi>
+    <IzgubljeniSetovi>0</IzgubljeniSetovi>
+    <OsvojeneUtakmice>0</OsvojeneUtakmice>
+    <IzgubljeneUtakmice>0</IzgubljeneUtakmice>
+  </Klub>
+</ArrayOfKlub>
